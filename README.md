@@ -78,4 +78,4 @@ This project follows the traditional GOPATH structure. More details will be adde
 
 ## License
 
-[Add license information]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
